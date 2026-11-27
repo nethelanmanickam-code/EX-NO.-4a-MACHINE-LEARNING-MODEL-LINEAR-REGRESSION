@@ -1,4 +1,11 @@
 # EX-NO.-4a-MACHINE-LEARNING-MODEL-LINEAR-REGRESSION
+
+NAME: Nethelan M
+
+REG.NO.: 212225060126
+
+DATE: 27/11/2026
+
 ## AIM
 To predict house prices using regression models and compare the performance of different machine learning regression models based on RMSE, MAE, and R².
 1.Machine Learning:Machine Learning is used to learn patterns from existing data and make predictions. 
